@@ -4,7 +4,6 @@
 #
 %define		pdir	Taint
 %define		pnam	Util
-%include	/usr/lib/rpm/macros.perl
 Summary:	Taint::Util - Test for and flip the taint flag without regex matches or eval
 Summary(pl.UTF-8):	Taint::Util - sprawdzanie i zmiana flagi skażenia bez wyrażeń regularnych ani eval
 Name:		perl-Taint-Util
