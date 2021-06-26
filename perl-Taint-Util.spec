@@ -14,10 +14,11 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Taint/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	4f081a8a6e82352741c0486784cbc23d
-URL:		http://search.cpan.org/dist/Taint-Util/
+URL:		https://metacpan.org/dist/Taint-Util
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.11
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
+BuildRequires:	rpmbuild(macros) >= 1.745
 %if %{with tests}
 BuildRequires:	perl-Test-Simple
 %endif
