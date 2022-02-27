@@ -8,7 +8,7 @@ Summary:	Taint::Util - Test for and flip the taint flag without regex matches or
 Summary(pl.UTF-8):	Taint::Util - sprawdzanie i zmiana flagi skażenia bez wyrażeń regularnych ani eval
 Name:		perl-Taint-Util
 Version:	0.08
-Release:	8
+Release:	9
 # same as perl 5
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
